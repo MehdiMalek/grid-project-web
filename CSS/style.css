@@ -189,7 +189,7 @@ footer {
       "slider"
       "top-box-a"
       "top-box-b";
-    order: 5;
+    
   }
   .top-box {
     width: 100%;
@@ -198,12 +198,10 @@ footer {
   .boxes {
     grid-template-columns: 1fr;
     margin: 15px 0;
-    order: 1;
   }
   .info {
     margin: 15px 0;
     grid-template-columns: 1fr;
-    order: 4;
   }
   .slider h1 {
     font-size: 2rem;
